@@ -5,5 +5,5 @@
 This project contains a couple of exercises 
 
 ## Student 
-
-- Wissal Tilamsane
+ - First Name : Wissal
+ - Last Name  : Tilamsane
